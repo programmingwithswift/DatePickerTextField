@@ -7,27 +7,27 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		360A3705243118360046DE4C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 360A3704243118360046DE4C /* AppDelegate.swift */; };
-		360A3707243118360046DE4C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 360A3706243118360046DE4C /* SceneDelegate.swift */; };
-		360A3709243118360046DE4C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 360A3708243118360046DE4C /* ViewController.swift */; };
-		360A370C243118360046DE4C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 360A370A243118360046DE4C /* Main.storyboard */; };
-		360A370E243118370046DE4C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 360A370D243118370046DE4C /* Assets.xcassets */; };
-		360A3711243118370046DE4C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 360A370F243118370046DE4C /* LaunchScreen.storyboard */; };
+		36BBC65E244C6DF7005B7E2E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36BBC65D244C6DF7005B7E2E /* AppDelegate.swift */; };
+		36BBC660244C6DF7005B7E2E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36BBC65F244C6DF7005B7E2E /* SceneDelegate.swift */; };
+		36BBC662244C6DF7005B7E2E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36BBC661244C6DF7005B7E2E /* ViewController.swift */; };
+		36BBC665244C6DF7005B7E2E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 36BBC663244C6DF7005B7E2E /* Main.storyboard */; };
+		36BBC667244C6DF8005B7E2E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 36BBC666244C6DF8005B7E2E /* Assets.xcassets */; };
+		36BBC66A244C6DF8005B7E2E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 36BBC668244C6DF8005B7E2E /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		360A3701243118360046DE4C /* UIDatePickerTextField.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UIDatePickerTextField.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		360A3704243118360046DE4C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		360A3706243118360046DE4C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		360A3708243118360046DE4C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		360A370B243118360046DE4C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		360A370D243118370046DE4C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		360A3710243118370046DE4C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		360A3712243118370046DE4C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		36BBC65A244C6DF7005B7E2E /* UITextFieldDatePicker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UITextFieldDatePicker.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		36BBC65D244C6DF7005B7E2E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		36BBC65F244C6DF7005B7E2E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		36BBC661244C6DF7005B7E2E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		36BBC664244C6DF7005B7E2E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		36BBC666244C6DF8005B7E2E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		36BBC669244C6DF8005B7E2E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		36BBC66B244C6DF8005B7E2E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		360A36FE243118360046DE4C /* Frameworks */ = {
+		36BBC657244C6DF7005B7E2E /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -37,72 +37,72 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		360A36F8243118360046DE4C = {
+		36BBC651244C6DF7005B7E2E = {
 			isa = PBXGroup;
 			children = (
-				360A3703243118360046DE4C /* UIDatePickerTextField */,
-				360A3702243118360046DE4C /* Products */,
+				36BBC65C244C6DF7005B7E2E /* UITextFieldDatePicker */,
+				36BBC65B244C6DF7005B7E2E /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		360A3702243118360046DE4C /* Products */ = {
+		36BBC65B244C6DF7005B7E2E /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				360A3701243118360046DE4C /* UIDatePickerTextField.app */,
+				36BBC65A244C6DF7005B7E2E /* UITextFieldDatePicker.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		360A3703243118360046DE4C /* UIDatePickerTextField */ = {
+		36BBC65C244C6DF7005B7E2E /* UITextFieldDatePicker */ = {
 			isa = PBXGroup;
 			children = (
-				360A3704243118360046DE4C /* AppDelegate.swift */,
-				360A3706243118360046DE4C /* SceneDelegate.swift */,
-				360A3708243118360046DE4C /* ViewController.swift */,
-				360A370A243118360046DE4C /* Main.storyboard */,
-				360A370D243118370046DE4C /* Assets.xcassets */,
-				360A370F243118370046DE4C /* LaunchScreen.storyboard */,
-				360A3712243118370046DE4C /* Info.plist */,
+				36BBC65D244C6DF7005B7E2E /* AppDelegate.swift */,
+				36BBC65F244C6DF7005B7E2E /* SceneDelegate.swift */,
+				36BBC661244C6DF7005B7E2E /* ViewController.swift */,
+				36BBC663244C6DF7005B7E2E /* Main.storyboard */,
+				36BBC666244C6DF8005B7E2E /* Assets.xcassets */,
+				36BBC668244C6DF8005B7E2E /* LaunchScreen.storyboard */,
+				36BBC66B244C6DF8005B7E2E /* Info.plist */,
 			);
-			path = UIDatePickerTextField;
+			path = UITextFieldDatePicker;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		360A3700243118360046DE4C /* UIDatePickerTextField */ = {
+		36BBC659244C6DF7005B7E2E /* UITextFieldDatePicker */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 360A3715243118370046DE4C /* Build configuration list for PBXNativeTarget "UIDatePickerTextField" */;
+			buildConfigurationList = 36BBC66E244C6DF8005B7E2E /* Build configuration list for PBXNativeTarget "UITextFieldDatePicker" */;
 			buildPhases = (
-				360A36FD243118360046DE4C /* Sources */,
-				360A36FE243118360046DE4C /* Frameworks */,
-				360A36FF243118360046DE4C /* Resources */,
+				36BBC656244C6DF7005B7E2E /* Sources */,
+				36BBC657244C6DF7005B7E2E /* Frameworks */,
+				36BBC658244C6DF7005B7E2E /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = UIDatePickerTextField;
-			productName = UIDatePickerTextField;
-			productReference = 360A3701243118360046DE4C /* UIDatePickerTextField.app */;
+			name = UITextFieldDatePicker;
+			productName = UITextFieldDatePicker;
+			productReference = 36BBC65A244C6DF7005B7E2E /* UITextFieldDatePicker.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		360A36F9243118360046DE4C /* Project object */ = {
+		36BBC652244C6DF7005B7E2E /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1130;
 				LastUpgradeCheck = 1130;
 				ORGANIZATIONNAME = ProgrammingWithSwift;
 				TargetAttributes = {
-					360A3700243118360046DE4C = {
+					36BBC659244C6DF7005B7E2E = {
 						CreatedOnToolsVersion = 11.3.1;
 					};
 				};
 			};
-			buildConfigurationList = 360A36FC243118360046DE4C /* Build configuration list for PBXProject "UIDatePickerTextField" */;
+			buildConfigurationList = 36BBC655244C6DF7005B7E2E /* Build configuration list for PBXProject "UITextFieldDatePicker" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -110,55 +110,55 @@
 				en,
 				Base,
 			);
-			mainGroup = 360A36F8243118360046DE4C;
-			productRefGroup = 360A3702243118360046DE4C /* Products */;
+			mainGroup = 36BBC651244C6DF7005B7E2E;
+			productRefGroup = 36BBC65B244C6DF7005B7E2E /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				360A3700243118360046DE4C /* UIDatePickerTextField */,
+				36BBC659244C6DF7005B7E2E /* UITextFieldDatePicker */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		360A36FF243118360046DE4C /* Resources */ = {
+		36BBC658244C6DF7005B7E2E /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				360A3711243118370046DE4C /* LaunchScreen.storyboard in Resources */,
-				360A370E243118370046DE4C /* Assets.xcassets in Resources */,
-				360A370C243118360046DE4C /* Main.storyboard in Resources */,
+				36BBC66A244C6DF8005B7E2E /* LaunchScreen.storyboard in Resources */,
+				36BBC667244C6DF8005B7E2E /* Assets.xcassets in Resources */,
+				36BBC665244C6DF7005B7E2E /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		360A36FD243118360046DE4C /* Sources */ = {
+		36BBC656244C6DF7005B7E2E /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				360A3709243118360046DE4C /* ViewController.swift in Sources */,
-				360A3705243118360046DE4C /* AppDelegate.swift in Sources */,
-				360A3707243118360046DE4C /* SceneDelegate.swift in Sources */,
+				36BBC662244C6DF7005B7E2E /* ViewController.swift in Sources */,
+				36BBC65E244C6DF7005B7E2E /* AppDelegate.swift in Sources */,
+				36BBC660244C6DF7005B7E2E /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		360A370A243118360046DE4C /* Main.storyboard */ = {
+		36BBC663244C6DF7005B7E2E /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				360A370B243118360046DE4C /* Base */,
+				36BBC664244C6DF7005B7E2E /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		360A370F243118370046DE4C /* LaunchScreen.storyboard */ = {
+		36BBC668244C6DF8005B7E2E /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				360A3710243118370046DE4C /* Base */,
+				36BBC669244C6DF8005B7E2E /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -166,7 +166,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		360A3713243118370046DE4C /* Debug */ = {
+		36BBC66C244C6DF8005B7E2E /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -226,7 +226,7 @@
 			};
 			name = Debug;
 		};
-		360A3714243118370046DE4C /* Release */ = {
+		36BBC66D244C6DF8005B7E2E /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -280,37 +280,39 @@
 			};
 			name = Release;
 		};
-		360A3716243118370046DE4C /* Debug */ = {
+		36BBC66F244C6DF8005B7E2E /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 6WB5V8NBJ5;
-				INFOPLIST_FILE = UIDatePickerTextField/Info.plist;
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = "";
+				INFOPLIST_FILE = UITextFieldDatePicker/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.programmingwithswift.UIDatePickerTextField;
+				PRODUCT_BUNDLE_IDENTIFIER = com.programmingwithswift.UITextFieldDatePicker;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		360A3717243118370046DE4C /* Release */ = {
+		36BBC670244C6DF8005B7E2E /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 6WB5V8NBJ5;
-				INFOPLIST_FILE = UIDatePickerTextField/Info.plist;
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = "";
+				INFOPLIST_FILE = UITextFieldDatePicker/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.programmingwithswift.UIDatePickerTextField;
+				PRODUCT_BUNDLE_IDENTIFIER = com.programmingwithswift.UITextFieldDatePicker;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -319,25 +321,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		360A36FC243118360046DE4C /* Build configuration list for PBXProject "UIDatePickerTextField" */ = {
+		36BBC655244C6DF7005B7E2E /* Build configuration list for PBXProject "UITextFieldDatePicker" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				360A3713243118370046DE4C /* Debug */,
-				360A3714243118370046DE4C /* Release */,
+				36BBC66C244C6DF8005B7E2E /* Debug */,
+				36BBC66D244C6DF8005B7E2E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		360A3715243118370046DE4C /* Build configuration list for PBXNativeTarget "UIDatePickerTextField" */ = {
+		36BBC66E244C6DF8005B7E2E /* Build configuration list for PBXNativeTarget "UITextFieldDatePicker" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				360A3716243118370046DE4C /* Debug */,
-				360A3717243118370046DE4C /* Release */,
+				36BBC66F244C6DF8005B7E2E /* Debug */,
+				36BBC670244C6DF8005B7E2E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 360A36F9243118360046DE4C /* Project object */;
+	rootObject = 36BBC652244C6DF7005B7E2E /* Project object */;
 }
